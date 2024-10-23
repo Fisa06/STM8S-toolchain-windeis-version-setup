@@ -4,3 +4,4 @@ STVD-STM8
 
 
 install Chocolatey and install Make with it
+[https://chocolatey.org/install](https://chocolatey.org/install)
