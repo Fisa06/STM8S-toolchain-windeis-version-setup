@@ -6,3 +6,7 @@ STVD-STM8
 install Chocolatey and install Make with it
 
 [https://chocolatey.org/install](https://chocolatey.org/install)
+
+install git and use gitbash to execute make
+
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
